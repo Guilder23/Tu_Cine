@@ -37,4 +37,4 @@ La app permite a los usuarios:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
+   https://github.com/Guilder23/Tu_Cine.git
